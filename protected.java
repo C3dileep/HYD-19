@@ -1,5 +1,4 @@
 package com.coreconcepts.accessmodifiers;
-import com.coreconcepts.accessmodifiers.*;
 
 public class ProtectedA {
 	
@@ -8,6 +7,10 @@ public class ProtectedA {
 	}
 
 }
+package com.coreconcepts.accessmodifiers1;
+
+import com.coreconcepts.accessmodifiers.*;
+
 public class Protected2Main extends ProtectedA {
 	
 	public static void main(String[] args) {
